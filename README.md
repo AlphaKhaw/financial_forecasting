@@ -32,6 +32,6 @@ This respository aims to apply four simple Time-Series forecasting models to a P
 
 ## References
 
-Dataset anonymized and adapted from Kaggle dataset: <https://selenium-python.readthedocs.io/#>
+Dataset anonymized and adapted from Kaggle dataset: <https://www.kaggle.com/boanxu/balance-sheet-cash-flow-analysis>
 
 [Back To The Top](#financial-forecasting)
