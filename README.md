@@ -22,7 +22,7 @@ This respository aims to apply four simple Time-Series forecasting models to a P
 
 #### Technologies
 
-- Spyder (Python 4)
+- Spyder (Python 3)
 - Pandas
 - statsmodels 
 
