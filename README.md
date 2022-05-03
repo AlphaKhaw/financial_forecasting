@@ -1,5 +1,4 @@
-Financial Forecasting Methods
-# Financial_Forecasting
+# Financial Forecasting Methods
 
 ---
 
